@@ -18,7 +18,7 @@ Dependencies: Install required Python libraries using:
 Linux & macOS
 Clone the repository:
 
-git clone https://github.com/your_username/ZeroDayPhantom_app
+git clone https://github.com/ZeroDayPhantom-h/ZeroDayPhantom_app
 Navigate to the projectdirectory:
 cd ZeroDayPhantom_app
 
